@@ -1,0 +1,11 @@
+Model Information:
+* title:	One Ring (Lord of the Rings)
+* source:	https://sketchfab.com/3d-models/one-ring-lord-of-the-rings-69fb249f337549f397f0fc42229f4ad3
+* author:	Wittybacon (https://sketchfab.com/wittybacon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "One Ring (Lord of the Rings)" (https://sketchfab.com/3d-models/one-ring-lord-of-the-rings-69fb249f337549f397f0fc42229f4ad3) by Wittybacon (https://sketchfab.com/wittybacon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
